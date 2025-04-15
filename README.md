@@ -1,23 +1,21 @@
-# 🧊 SugarSage
+# 🧬 Sugar Sage
 
 A wise guide for tracking and predicting diabetes.  
 Suggesting proactive and futuristic health management.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![🧬 Sugar Sage App](https://static.streamlit.io/badges/streamlit_badge_white.svg)](https://ml-diabetesprediction.streamlit.app/)
 
 ## GitHub Codespaces
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/Monica-Zen/ML-DiabetesPrediction)
 
----
 
 ## Project Overview
 
 **SugarSage** is a machine learning-powered application aimed at predicting diabetes risk based on key patient attributes. Its focus is to provide insights to individuals and healthcare professionals, fostering proactive and informed decision-making.
 
----
 
 ## Dataset Description
 
@@ -34,7 +32,6 @@ The dataset contains the following attributes:
 - **BUN (Blood Urea Nitrogen)**: Reflects kidney and liver function. Abnormal levels may signal disorders related to diabetes.
 - **Diagnosis**: Indicates whether a patient has diabetes.
 
----
 
 ## Objectives
 
@@ -42,7 +39,6 @@ The dataset contains the following attributes:
 - Analyze the impact of each attribute on diabetes prediction.
 - Offer a user-friendly interface for exploring prediction results.
 
----
 
 ## Features
 
@@ -77,7 +73,6 @@ The dataset contains the following attributes:
 - **Correlation Heatmap**: Visualize correlations between features using a heatmap.
 - **Diagnosis Count**: View the distribution of diabetes diagnoses.
 
----
 
 ## Models Supported
 
@@ -89,7 +84,6 @@ The dataset contains the following attributes:
 
 Each model includes hyperparameter tuning options to optimize performance.
 
----
 
 ## How to Use
 
